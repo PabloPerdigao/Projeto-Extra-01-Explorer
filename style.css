@@ -2,11 +2,13 @@
 body {
   background: #FFF;
   text-align: center;
-
+  font-family: 'Open Sans', sans-serif;
+  
 }
 
 h1 {
   color: #3F3D56;
+  font-family: 'Dosis', sans-serif;
   text-align: center;
   font-size: 32px;
   font-style: normal;
