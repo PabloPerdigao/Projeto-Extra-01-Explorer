@@ -2,24 +2,45 @@
 body {
   background: #FFF;
   text-align: center;
-  
+align-items: center;
+}
+
+img {
+  padding: 64px;
+
 }
 
 h1 {
   color: #3F3D56;
   font-family: 'Dosis', sans-serif;
-  text-align: center;
+  font-weight: 500;
   font-size: 32px;
   font-style: normal;
   line-height: normal;
 }
 
+h1 span {
+  color: #EE24FF;
+  font-weight: 700;
+  font-size: 32px;
+  font-style: normal;
+  line-height: normal;
+}
 p {
   color: #828282;
   font-size: 15px;
   font-family: 'Open Sans', sans-serif;
   font-style: normal;
   font-weight: 400;
+  line-height: 22px;
+}
+
+p1 strong {
+  color: #3F3D56;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
   line-height: 22px;
 }
 
