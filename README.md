@@ -22,7 +22,7 @@ Este é um projeto conceitual e não representa uma empresa ou serviço real. <b
 <br>
 
 <p align="center">
-  <img alt="projeto 01" src=".github/preview.jpg" width="100%">
+  <img alt="projeto 01" src="image/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
