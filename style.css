@@ -2,7 +2,7 @@
 body {
   background: #FFF;
   text-align: center;
-align-items: center;
+  align-items: center;
 }
 
 img {
@@ -17,6 +17,8 @@ h1 {
   font-size: 32px;
   font-style: normal;
   line-height: normal;
+
+  margin-top: 32px;
 }
 
 h1 span {
@@ -33,6 +35,9 @@ p {
   font-style: normal;
   font-weight: 400;
   line-height: 22px;
+
+  margin-top: 16px;
+  margin-bottom: 32px;
 }
 
 p1 strong {
@@ -51,6 +56,8 @@ p2 {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+
+  margin-bottom: 80px;
 }
 
 div {
@@ -61,3 +68,8 @@ font-style: normal;
 font-weight: 700;
 }
 
+svg {
+  width: 1024px;
+  height: 104px;
+  
+}
