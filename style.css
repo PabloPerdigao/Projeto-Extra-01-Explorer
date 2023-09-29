@@ -69,13 +69,26 @@ border: 1px solid #ECEFF2;
 margin-top: 64px;
 }
 
-div {
+
+strong + strong {
+  margin-left: 42px;
+}
+
+strong a {
   color: #3F3D56;
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   font-style: normal;
   font-weight: 700;
   margin-top: 16px;
+
+/* Remover sublinhado dos links */
+  text-decoration: none; 
+}
+
+/* Adicionar sublinhado ao passar o mouse sobre os links */
+strong a:hover {
+  text-decoration: underline; 
 }
 
 svg {
