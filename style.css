@@ -91,9 +91,21 @@ strong a:hover {
   text-decoration: underline; 
 }
 
-svg {
+#gray-wave {
   margin-top: 40.83px;
-  width: 1024px;
-  height: 104px;
+  width: 100%;
+  height: 104px; /* Altura do seu SVG */
+  overflow: hidden; /* Para esconder o excedente do SVG */
 }
+
+#wave {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%; /* Cobrir a largura total */
+  height: auto; /* A altura se ajustará automaticamente à largura */
+  /*fill: gray;  Altere a cor de preenchimento para a cor desejada */
+  /*z-index: -1;  Colocar o SVG atrás do conteúdo da página */
+}
+
 
