@@ -1,4 +1,4 @@
-<h1 align="center"> 👨🏼‍💻Projeto-02 I Explorer 
+<h1 align="center"> 👨🏼‍💻Projeto-Extra-01 I Explorer 
 <br/> 🚀👨🏼‍🚀#Desafios Rocketseat </h1>
 <br/>
 <p align="center">
